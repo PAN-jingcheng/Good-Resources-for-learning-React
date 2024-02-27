@@ -1,18 +1,18 @@
-# Resources For Learning React
+# 📚 Resources For Learning React
 
-If you are new to React, here are some excellent resources to get started with.
+If you are new to React, here are some excellent resources to get started with. 🌟
 
 Feel free to share your thoughts on these materials. If you have any recommended React learning resources, please don't hesitate to contribute by opening an issue or submitting a pull request.
 
 ## Table of Contents
-- [Free](#free)
+- [Free](#free) 🆓
   - [Full Stack Open](#full-stack-open)
   - [Scrimba](#scrimba)
   - [Quick Start - React](#quick-start---react-official)
-- [Paid](#paid)
-- [Community](#community)
+- [Paid](#paid) 💰
+- [Community](#community) 
 
-## Free
+## Free🆓
 
 ### [Full stack open](https://fullstackopen.com/en/) 
 
@@ -42,7 +42,7 @@ Scrimba is an innovative online platform designed to offer **interactive coding 
 
 ### [Quick Start - React](https://react.dev/learn) (Official)
 
-## Paid
+## Paid 💰
 
 [Udemy - The Ultimate React Course 2024: React, Redux & More By Jonas Schmedtmann](https://www.udemy.com/course/the-ultimate-react-course)
 
@@ -53,4 +53,4 @@ Scrimba is an innovative online platform designed to offer **interactive coding 
 ## Community
 [Reddit /r/ReactJS](https://www.reddit.com/r/reactjs/)
 
-## We look forward to your contributions, helping make this resource list even better!
+## We look forward to your contributions, helping make this resource list even better! 🙌
