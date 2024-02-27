@@ -36,6 +36,8 @@ Scrimba is an innovative online platform designed to offer **interactive coding 
 
 [Udemy - The Ultimate React Course 2024: React, Redux & More By Jonas Schmedtmann](https://www.udemy.com/course/the-ultimate-react-course)
 
+[Udemy - Modern React with Redux [2024 Update] By Stephen Griders](https://www.udemy.com/course/react-redux/)
+
 [The Joy of React by Josh W Comeau](https://www.joyofreact.com) (Very good but very expensive)
 
 ## Community
