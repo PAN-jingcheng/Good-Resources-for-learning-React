@@ -2,6 +2,16 @@
 
 If you are new to React, here are some excellent resources to get started with.
 
+Feel free to share your thoughts on these materials. If you have any recommended React learning resources, please don't hesitate to contribute by opening an issue or submitting a pull request.
+
+## Table of Contents
+- [Free](#free)
+  - [Full Stack Open](#full-stack-open)
+  - [Scrimba](#scrimba)
+  - [Quick Start - React](#quick-start---react-official)
+- [Paid](#paid)
+- [Community](#community)
+
 ## Free
 
 ### [Full stack open](https://fullstackopen.com/en/) 
@@ -9,9 +19,9 @@ If you are new to React, here are some excellent resources to get started with.
 Open online course on JavaScript based modern web development by University of Helsinki and Houston Inc. in Spring 2023. 
 
 The Course has 14 parts includes:
-1. Fundmentals of Web apps
+1. Fundamentals of Web Apps
 2. Introduction to React
-3. Commuicating with server
+3. Communicating with Server
 4. Programming a server with NodeJs and Express
 5. Testing Express servers, user administration
 6. Testing React apps
@@ -43,3 +53,4 @@ Scrimba is an innovative online platform designed to offer **interactive coding 
 ## Community
 [Reddit /r/ReactJS](https://www.reddit.com/r/reactjs/)
 
+## We look forward to your contributions, helping make this resource list even better!
