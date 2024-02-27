@@ -1,5 +1,7 @@
 # Resources For Learning React
 
+If you are new to React, here are some excellent resources to get started with.
+
 ## Free
 
 ### [Full stack open](https://fullstackopen.com/en/) 
@@ -26,8 +28,16 @@ The Course has 14 parts includes:
 
 ### [Scrimba](https://scrimba.com)
 
-
 Scrimba is an innovative online platform designed to offer **interactive coding courses**, particularly focusing on front-end development skills such as HTML, CSS, JavaScript, and various frameworks and libraries, including React.
 
+### [Quick Start - React](https://react.dev/learn) (Official)
+
 ## Paid
+
+[Udemy - The Ultimate React Course 2024: React, Redux & More By Jonas Schmedtmann](https://www.udemy.com/course/the-ultimate-react-course)
+
+[The Joy of React by Josh W Comeau](https://www.joyofreact.com) (Very good but very expensive)
+
+## Community
+[Reddit /r/ReactJS](https://www.reddit.com/r/reactjs/)
 
