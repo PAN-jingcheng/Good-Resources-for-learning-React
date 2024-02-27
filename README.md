@@ -2,7 +2,7 @@
 
 ## Free
 
-### [Full stack open](https://fullstackopen.com/en/) (Hghtly Recommended!!)
+### [Full stack open](https://fullstackopen.com/en/) 
 
 Open online course on JavaScript based modern web development by University of Helsinki and Houston Inc. in Spring 2023. 
 
@@ -22,4 +22,12 @@ The Course has 14 parts includes:
 13. Containers
 14. Using relation databases
 
-**This course has a very active Discord community full of participants for help and discussions.**
+**This course has a very active Discord community full of participants for help and discussions.** Previous knowledge of JavaScript or other course topics is not required.
+
+### [Scrimba](https://scrimba.com)
+
+
+Scrimba is an innovative online platform designed to offer **interactive coding courses**, particularly focusing on front-end development skills such as HTML, CSS, JavaScript, and various frameworks and libraries, including React.
+
+## Paid
+
