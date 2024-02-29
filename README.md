@@ -42,6 +42,8 @@ Scrimba is an innovative online platform designed to offer **interactive coding 
 
 ### [Quick Start - React](https://react.dev/learn) (Official)
 
+The React official documentation includes detailed API reference materials, covering but not limited to the details of component lifecycle, state management, Context API, component usage, Hooks, and more. These reference materials provide in-depth information about the purpose of each API, how to use them, and their underlying principles.
+
 ## Paid 💰
 
 [Udemy - The Ultimate React Course 2024: React, Redux & More By Jonas Schmedtmann](https://www.udemy.com/course/the-ultimate-react-course)
