@@ -1,6 +1,6 @@
 # 📚 Resources For Learning React
 
-If you are new to React, here are some excellent resources to get started with. 🌟
+If you are new to React, here are some excellent resources to get started with, which I have collected from Internet and Reddit.  🌟
 
 Feel free to share your thoughts on these materials. If you have any recommended React learning resources, please don't hesitate to contribute by opening an issue or submitting a pull request.
 
