@@ -16,7 +16,7 @@ Feel free to share your thoughts on these materials. If you have any recommended
 
 ### [Full stack open](https://fullstackopen.com/en/) 
 
-Open online course on JavaScript based modern web development by University of Helsinki and Houston Inc. in Spring 2023. 
+Open online course on JavaScript based modern web development by University of Helsinki and Houston Inc. in the spring of 2023.
 
 The Course has 14 parts includes:
 1. Fundamentals of Web Apps
